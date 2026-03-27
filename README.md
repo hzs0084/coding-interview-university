@@ -396,7 +396,7 @@ of that data structure or algorithm in the language you chose for this course.
 You can see my code here:
  - [C]()
  - [C++]()
- - [Python]()
+ - [Python](https://github.com/hzs0084/practice-python)
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
